@@ -1,7 +1,7 @@
-<img src="logomapa.png" align="right" width="120" style="margin-right: 20px;" />
+
 
 # ⏳ Mapa mundi interactiu 
-
+<img src="logomapa.png" align="right" width="120" style="margin-right: 20px;" />
 En la següent web trobareu un mapa mundi on, en clicar en 15 zones diferents, canvia el color del territori. Hi ha 6 colors disponibles (groc, roig o vermell, verd, lila, blau i negre). Cada color pot representar un equip o una persona que, quan conquereix una zona, la pinta del seu color. El negre pot funcionar com a avís de zona que està en canvi de propietari (per exemple, si l'està conquerint un altre equip).
 
 Aquesta és una forma de donar sentit als colors, mes cadascú hi pot donar el valor que li sigui més convenient.
