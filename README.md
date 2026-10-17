@@ -16,8 +16,7 @@ El mapa interactiu que teniu a disposició va néixer com a taulell de joc per a
 
 Ara està disponible per a l'ús públic i no comercial, per si necessiteu un mapa interactiu tipus taulell. 
 
-🔗 **Accés al web codi i en línia:** [**Mapa mundi interactiu (index.html)**]([index.html]) <br>
-En línia (https://github.com/enginyera-filologica/mapa-mundi-interactiu/deployments/github-pages))
+🔗 **Accés al web codi i en línia:** [**Mapa mundi interactiu (index.html)**(https://github.com/enginyera-filologica/mapa-mundi-interactiu/deployments/github-pages)] <br>
 
 ---
 
